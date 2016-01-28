@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{027FE08B-211B-6225-C97B-43648209EE54}") = "PinBowling", "Assembly-CSharp.csproj", "{120B7BCC-8FFB-C66A-A400-AE82A226C7F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{120B7BCC-8FFB-C66A-A400-AE82A226C7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120B7BCC-8FFB-C66A-A400-AE82A226C7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120B7BCC-8FFB-C66A-A400-AE82A226C7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120B7BCC-8FFB-C66A-A400-AE82A226C7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
